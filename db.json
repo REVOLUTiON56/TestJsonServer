@@ -60,14 +60,14 @@
      "owner" : 44
    },
       {
-     "id": 1,
+     "id": 7,
      "name" : "album1",
-     "owner" : 1
+     "owner" : 44
    },
       {
-     "id": 1,
+     "id": 8,
      "name" : "album1",
-     "owner" : 1
+     "owner" : 4
    }
  ]
 }
