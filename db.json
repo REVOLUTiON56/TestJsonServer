@@ -34,7 +34,8 @@
     }
   ],
   
-  "albums": [{
+  "albums": [
+   {
     "id": 1,
     "name" : "album1",
     "owner" : 1
@@ -74,4 +75,4 @@
     "name" : "album8",
     "owner" : 6
   }
-}]
+]
