@@ -1,11 +1,77 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "email": "email1@mail.ru"
+    },
+    {
+      "id": 2,
+      "email": "email2@mail.ru"
+    },
+        {
+      "id": 3,
+      "email": "email3@mail.ru"
+    },
+    {
+      "id": 4,
+      "email": "email4@mail.ru"
+    },
+        {
+      "id": 5,
+      "email": "email5@mail.ru"
+    },
+    {
+      "id": 6,
+      "email": "email6@mail.ru"
+    },
+    {
+      "id": 7,
+      "email": "email7@mail.ru"
+    },
+    {
+      "id": 8,
+      "email": "email8@mail.ru"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  
+  "albums": [{
+    "id": 1,
+    "name" : "album1",
+    "owner" : 1
+  },
+  {
+    "id": 2,
+    "name" : "album2",
+    "owner" : 1
+  },
+  {
+    "id": 3,
+    "name" : "album3",
+    "owner" : 2
+  },
+  {
+    "id": 4,
+    "name" : "album4",
+    "owner" : 4
+  },
+  {
+    "id": 5,
+    "name" : "album5",
+    "owner" : 4
+  },
+  {
+    "id": 6,
+    "name" : "album6",
+    "owner" : 4
+  },
+  {
+    "id": 7,
+    "name" : "album7",
+    "owner" : 8
+  },
+  {
+    "id": 8,
+    "name" : "album8",
+    "owner" : 6
   }
-}
+}]
