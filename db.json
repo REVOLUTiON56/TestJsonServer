@@ -32,5 +32,42 @@
       "id": 44,
       "email": "email8@mail.ru"
     }
+ ],
+ "albums" : [
+   {
+     "id": 1,
+     "name" : "album1",
+     "owner" : 1
+   },
+      {
+     "id": 2,
+     "name" : "album2",
+     "owner" : 1
+   },
+      {
+     "id": 3,
+     "name" : "album3",
+     "owner" : 1
+   },
+      {
+     "id": 4,
+     "name" : "album4",
+     "owner" : 2
+   },
+      {
+     "id": 6,
+     "name" : "album45",
+     "owner" : 44
+   },
+      {
+     "id": 1,
+     "name" : "album1",
+     "owner" : 1
+   },
+      {
+     "id": 1,
+     "name" : "album1",
+     "owner" : 1
+   },
  ]
 }
