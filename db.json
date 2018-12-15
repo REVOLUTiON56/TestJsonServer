@@ -2,34 +2,50 @@
   "users": [
     {
       "id": 1,
+      "name": "John",
+      "role": "Admin",
       "email": "email1@mail.ru"
     },
     {
       "id": 2,
+      "name": "Josh",
+      "role": "Moderator",
       "email": "email2@mail.ru"
     },
     {
       "id": 4,
+      "name": "Anna",
+      "role": "Moderator",
       "email": "email3@mail.ru"
     },
     {
       "id": 5,
+      "name": "Sergio",
+      "role": "User",
       "email": "email4@mail.ru"
     },
     {
       "id": 6,
+      "name": "Vasiliy",
+      "role": "User",
       "email": "email5@mail.ru"
     },
     {
       "id": 8,
+      "name": "Alexei",
+      "role": "User",
       "email": "email6@mail.ru"
     },
     {
       "id": 11,
+      "name": "Mauro",
+      "role": "User",
       "email": "email7@mail.ru"
     },
     {
       "id": 44,
+      "name": "Mr. Anderson",
+      "role": "User",
       "email": "email8@mail.ru"
     }
  ],
@@ -37,36 +53,43 @@
    {
      "id": 1,
      "name" : "album1",
+     "type" : "private",
      "owner" : 1
    },
       {
      "id": 2,
      "name" : "album2",
+     "type" : "public",
      "owner" : 1
    },
       {
      "id": 3,
      "name" : "album3",
+     "type" : "public",
      "owner" : 1
    },
       {
      "id": 4,
      "name" : "album4",
+     "type" : "public",
      "owner" : 2
    },
       {
      "id": 6,
      "name" : "album45",
+     "type" : "private",
      "owner" : 44
    },
       {
      "id": 7,
-     "name" : "album1",
+     "name" : "album7"
+     "type" : "public",
      "owner" : 44
    },
       {
      "id": 8,
-     "name" : "album1",
+     "name" : "album8",
+     "type" : "private",
      "owner" : 4
    }
  ]
