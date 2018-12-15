@@ -82,7 +82,7 @@
    },
       {
      "id": 7,
-     "name" : "album7"
+     "name" : "album7",
      "type" : "public",
      "owner" : 44
    },
