@@ -4,19 +4,19 @@
       "id": 1,
       "name": "John",
       "role": "Admin",
-      "email": "email1@mail.ru"
+      "email": "email0@mail.ru"
     },
     {
       "id": 2,
       "name": "Josh",
       "role": "Moderator",
-      "email": "email2@mail.ru"
+      "email": "email1@mail.ru"
     },
     {
       "id": 4,
       "name": "Anna",
       "role": "Moderator",
-      "email": "email3@mail.ru"
+      "email": "email2@mail.ru"
     },
     {
       "id": 5,
@@ -54,43 +54,43 @@
      "id": 1,
      "name" : "album1",
      "type" : "private",
-     "owner" : 1
+     "ownerId" : 1
    },
       {
      "id": 2,
      "name" : "album2",
      "type" : "public",
-     "owner" : 1
+     "ownerId" : 1
    },
       {
      "id": 3,
      "name" : "album3",
      "type" : "public",
-     "owner" : 1
+     "ownerId" : 1
    },
       {
      "id": 4,
      "name" : "album4",
      "type" : "public",
-     "owner" : 2
+     "ownerId" : 2
    },
       {
      "id": 6,
      "name" : "album45",
      "type" : "private",
-     "owner" : 44
+     "ownerId" : 44
    },
       {
      "id": 7,
      "name" : "album7",
      "type" : "public",
-     "owner" : 44
+     "ownerId" : 44
    },
       {
      "id": 8,
      "name" : "album8",
      "type" : "private",
-     "owner" : 4
+     "ownerId" : 4
    }
  ]
 }
